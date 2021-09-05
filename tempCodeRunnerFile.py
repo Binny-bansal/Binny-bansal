@@ -1,3 +1,1 @@
-f = open('myfirstfile.txt','w')
-f.write("Hello this my test file.")
-f.close()
+from random_word_generator import pick_random_word
